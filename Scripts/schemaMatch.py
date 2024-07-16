@@ -15,7 +15,6 @@ from keras.losses import binary_crossentropy
 from keras.optimizers import Adam
 from keras.layers import Input, Dense
 import pickle
-import psycopg2
 import scipy
 import keras
 from tqdm import tqdm

@@ -5,12 +5,10 @@ from ast import literal_eval
 import pandas as pd
 import numpy as np
 import re
-import gensim
 import time
 from numpy import array
 from numpy import asarray
 from numpy import zeros
-import psycopg2
 import pickle
 import random
 from urllib.error import HTTPError, URLError
